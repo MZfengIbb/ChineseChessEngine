@@ -8,4 +8,4 @@
 		Chinese version: http://www.xqbase.com/computer/basic_started.htm
 	
 ## Game development instances - using C++ in cocos2dx
-	
+	See: https://github.com/MZfengIbb/ChineseChessEngineDemo
